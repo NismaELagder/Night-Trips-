@@ -1,0 +1,52 @@
+#modal {
+  width: 80vw;
+  height: 90vh;
+  margin: 5vh 10vw;
+  padding-top: 1em;
+  position: fixed;
+  bottom: 0;
+  background-color: aliceblue;
+  z-index: 100;
+}
+
+.shownModal {
+  display: block;
+}
+
+.hiddenModal {
+  display: none;
+}
+
+#modal .close span,
+#modal .close span::before {
+  background-color: black;
+}
+
+#modal .close:hover span,
+#modal .close:hover span::before {
+  background-color: #0299bc;
+}
+
+#modalImg {
+  display: block;
+  margin: auto;
+  height: 50%;
+  width: 80%;
+}
+
+#modalHead,
+#modalContent {
+  text-align: center;
+  padding: 1em 0 0.5em;
+}
+
+#modalHead {
+  font-size: 2.5em;
+}
+
+#modalContent {
+  font-size: 1.25em;
+  width: 90%;
+  margin: auto;
+  line-height: 1.5;
+}

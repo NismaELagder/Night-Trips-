@@ -1,0 +1,18 @@
+{
+  "mission": {
+    "modalHead": "Our Mission",
+    "modalContent": "To create value for our stakeholders through innovation, commitment, excellence, integrity and high standards of service delivery.",
+    "modalImg": "images/mission.jpg"
+  },
+  "terms": {
+    "modalHead": "Terms",
+    "modalContent": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+    "modalImg": "images/terms.jpg"
+  },
+  "copyrights": {
+    "modalHead": "Copyrights",
+    "modalContent": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. ",
+
+    "modalImg": "images/owner.jpg"
+  }
+}

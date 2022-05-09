@@ -1,0 +1,31 @@
+{
+  "doha": {
+    "num": "01.",
+    "title": "Doha Desert",
+    "src": "images/doha.jpg",
+    "boldText": "Visitors to Qatar are immediately impressed by the stunning, modern city. With its tall skyscrapers and long boulevards. But for visitors to really experience Qatari culture, there is only one option: a night in the desert. On this overnight tour, enjoy an evening that few travelers experience in a desert camp.",
+    "etc": "Try traditional activities like beach volleyball and shisha smoking. Enjoy a buffet dinner and swim in the Arabian Sea. Wake up at sunrise to watch the gorgeous sunrise with a delicious breakfast."
+  },
+
+  "sahara": {
+    "num": "02.",
+    "title": "Sahara Desert",
+    "src": "images/sahara.jpg",
+    "boldText": "The Sahara is the largest hot desert in the world and the third-largest desert overall,",
+    "etc": " behind the cold deserts of Antarctica and the Arctic. The Sahara is one of the harshest environments on Earth, covering 3.6 million square miles (9.4 million square kilometers), an area about the size of the United States (including Alaska and Hawaii) and spanning nearly a third of the African continent. The name of the desert comes from the Arabic word ṣaḥrāʾ, according to the Encyclopedia Britannica."
+  },
+  "kalahari": {
+    "num": "03.",
+    "title": "Kalahari Desert",
+    "src": "images/Kalahari.jpg",
+    "boldText": "The Kalahari Desert is a large semi-arid sandy savanna in Southern Africa extending for 900,000 square kilometres (350,000 sq mi), covering much of Botswana, and parts of Namibia and South Africa.",
+    "etc": "The Kalahari Desert was not always a dry desert. The fossil flora and fauna from Gcwihaba Cave in Botswana indicates that the region was much wetter and cooler at least from 30 to 11 thousand BP (before present) especially after 17,500 BP.[2]"
+  },
+  "victoria": {
+    "num": "04.",
+    "title": "Great Victoria Desert",
+    "src": "images/victoria.jpg",
+    "boldText": "The Great Victoria is the largest desert in Australia,[2] and consists of many small sandhills, grassland plains, areas with a closely packed surface of pebbles (called desert pavement or gibber plains), and salt lakes. ",
+    "etc": "The Western Australian mulga shrublands ecoregion lies to the west, the Little Sandy Desert to the northwest, the Gibson Desert and the Central Ranges xeric shrublands to the north, the Tirari-Sturt stony desert to the east, and the Nullarbor Plain to the south separates it from the Southern Ocean. "
+  }
+}
